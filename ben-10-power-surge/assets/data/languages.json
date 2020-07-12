@@ -1,0 +1,79 @@
+{
+"level": {
+    "en": "Level [LEVEL]",
+    "de": "Level [LEVEL]",
+    "es": "Nivel [LEVEL]",
+    "fr": "Niveau [LEVEL]",
+    "it": "Livello [LEVEL]",
+    "pl": "Poziomu [LEVEL]",
+    "tr": "Bölüm [LEVEL]",
+    "ru": "Уровень [LEVEL]",
+    "ar": "المستوى [LEVEL]"
+  },
+  "instructions": {
+    "en": "Instructions",
+    "de": "Anleitung",
+    "es": "Instrucciones",
+    "fr": "Instructions",
+    "it": "Istruzioni",
+    "pl": "Instrukcje",
+    "tr": "Talimatlar",
+    "ru": "Инструкция",
+    "ar": "تعليمات"
+  },
+  "paused": {
+    "en": "Paused",
+    "de": "Pause",
+    "es": "Pausa",
+    "fr": "En pause",
+    "it": "In pausa",
+    "pl": "Pauza",
+    "tr": "Durduruldu",
+    "ru": "Пауза",
+    "ar": "إيقاف مؤقت"
+  },
+  "greatwork": {
+    "en": "Great Work",
+    "de": "Gut gemacht",
+    "es": "¡Bien hecho!",
+    "fr": "Super!",
+    "it": "Ottimo lavoro",
+    "pl": "Dobra robota!",
+    "tr": "Harika!",
+    "ru": "Отлично!",
+    "ar": "!ﻊﺋﺍﺭ ﻞﻤﻋ"
+  },
+  "gameover": {
+    "en": "Game Over",
+    "de": "Ende",
+    "es": "Fin de la partida",
+    "fr": "Partie terminée",
+    "it": "Game Over",
+    "pl": "Koniec gry",
+    "tr": "Oyun Bitti",
+    "ru": "Игра окончена",
+    "ar": "انتهت اللعبة"
+  },
+  "highscore": {
+    "en": "Highscore\n[SCORE]",
+    "de": "Rekord\n[SCORE]",
+    "es": "Máxima puntuación\n[SCORE]",
+    "fr": "Meilleur score\n[SCORE]",
+    "it": "Punteggio record\n[SCORE]",
+    "pl": "Najlepszy wynik\n[SCORE]",
+    "tr": "Rekor\n[SCORE]",
+    "ru": "Рекорд\n[SCORE]",
+    "ar": "أعلى نتيجة\n[SCORE]"
+  },
+   "areyousure": {
+    "en": "Are you sure?",
+    "de": "Bist du sicher?",
+    "es": "¿Seguro que quieres hacerlo?",
+    "fr": "Es-tu sûr?",
+    "it": "Sei sicuro?",
+    "pl": "Na pewno?",
+    "tr": "Emin misin?",
+    "ru": "Вы уверены?",
+    "ar": "هل أنت متأكد؟"
+  }
+}

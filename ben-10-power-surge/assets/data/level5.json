@@ -1,0 +1,542 @@
+{
+"level":
+	{
+	"background": "game_bg_003",
+	"bgm": "sfx_abc",
+	"length": 15889,
+	"layers": {
+		"layer0": {
+			"zOrder": -1,
+			"ease": 1,
+			"tiles": [
+				{"texture": "bg_tile_001", "x": 454, "y": 550},
+				{"texture": "bg_tile_003", "x": 1403, "y": 550},
+				{"texture": "bg_tile_003", "x": 5193, "y": 550},
+				{"texture": "bg_tile_001", "x": 4244, "y": 550},
+				{"texture": "bg_tile_002", "x": -496, "y": 550},
+				{"texture": "bg_tile_003", "x": -1444, "y": 550},
+				{"texture": "bg_tile_002", "x": 11800, "y": 550},
+				{"texture": "bg_tile_003", "x": 12750, "y": 550},
+				{"texture": "bg_tile_001", "x": 13690, "y": 550},
+				{"texture": "bg_tile_003", "x": 14640, "y": 550},
+				{"texture": "bg_tile_009", "x": 6142, "y": 549.7316},
+				{"texture": "bg_tile_010", "x": 2349, "y": 550},
+				{"texture": "bg_tile_003", "x": 7090, "y": 550},
+				{"texture": "bg_tile_003", "x": 8037, "y": 550},
+				{"texture": "bg_tile_003", "x": 9918, "y": 550},
+				{"texture": "bg_tile_009", "x": 3297, "y": 549.7316},
+				{"texture": "bg_tile_002", "x": 10865, "y": 550},
+				{"texture": "bg_tile_003", "x": 15570, "y": 550},
+				{"texture": "bg_tile_003", "x": 8970, "y": 550}
+			]
+		},
+		"layer1": {
+			"zOrder": 0,
+			"ease": 2,
+			"tiles": [
+				{"texture": "fg_003", "x": -784, "y": 700},
+				{"texture": "fg_002", "x": 0, "y": 700},
+				{"texture": "fg_003", "x": 1457, "y": 700},
+				{"texture": "fg_001", "x": 2899, "y": 700},
+				{"texture": "fg_003", "x": 4230, "y": 700},
+				{"texture": "fg_003", "x": 7110, "y": 700},
+				{"texture": "fg_002", "x": 7890, "y": 700},
+				{"texture": "fg_001", "x": 11240, "y": 700},
+				{"texture": "fg_003", "x": 9800, "y": 700},
+				{"texture": "fg_002", "x": 13610, "y": 700},
+				{"texture": "fg_003", "x": 15950, "y": 700},
+				{"texture": "fg_003", "x": 18480, "y": 700},
+				{"texture": "fg_001", "x": 22370, "y": 700},
+				{"texture": "fg_002", "x": 21710, "y": 700},
+				{"texture": "fg_002", "x": 25773, "y": 700},
+				{"texture": "fg_001", "x": 23983, "y": 700},
+				{"texture": "fg_002", "x": 27523, "y": 700},
+				{"texture": "fg_002", "x": 29973, "y": 700},
+				{"texture": "fg_003", "x": 33149, "y": 700},
+				{"texture": "fg_002", "x": 31479, "y": 700},
+				{"texture": "fg_002", "x": 35474, "y": 700},
+				{"texture": "fg_003", "x": 37144, "y": 700},
+				{"texture": "fg_001", "x": 38584, "y": 700},
+				{"texture": "fg_001", "x": 47760, "y": 700},
+				{"texture": "fg_003", "x": 46320, "y": 700},
+				{"texture": "fg_002", "x": 44650, "y": 700},
+				{"texture": "fg_002", "x": 40660, "y": 700},
+				{"texture": "fg_003", "x": 42330, "y": 700}
+			]
+		},
+		"layer2": {
+			"zOrder": -3,
+			"ease": 0.5,
+			"tiles": [
+				{"texture": "tree_001", "x": -271, "y": 512},
+				{"texture": "tree_004", "x": 278, "y": 512},
+				{"texture": "tree_004", "x": 590, "y": 512},
+				{"texture": "tree_005", "x": -715, "y": 512},
+				{"texture": "tree_003", "x": -1314, "y": 512},
+				{"texture": "tree_003", "x": 1093, "y": 512},
+				{"texture": "tree_005", "x": 1692, "y": 512},
+				{"texture": "tree_004", "x": 2685, "y": 512},
+				{"texture": "tree_004", "x": 2997, "y": 503},
+				{"texture": "tree_001", "x": 2136, "y": 512},
+				{"texture": "tree_001", "x": 4760, "y": 512},
+				{"texture": "tree_004", "x": 5621, "y": 512},
+				{"texture": "tree_004", "x": 5309, "y": 512},
+				{"texture": "tree_005", "x": 4316, "y": 512},
+				{"texture": "tree_003", "x": 3717, "y": 512},
+				{"texture": "tree_003", "x": 6165, "y": 512},
+				{"texture": "tree_005", "x": 6764, "y": 512},
+				{"texture": "tree_004", "x": 7757, "y": 512},
+				{"texture": "tree_004", "x": 8069, "y": 512},
+				{"texture": "tree_001", "x": 7208, "y": 512},
+				{"texture": "tree_005", "x": 8826, "y": 512},
+				{"texture": "tree_001", "x": 11718, "y": 512},
+				{"texture": "tree_003", "x": 10675, "y": 512},
+				{"texture": "tree_003", "x": 8227, "y": 512},
+				{"texture": "tree_005", "x": 11274, "y": 512},
+				{"texture": "tree_004", "x": 9819, "y": 512},
+				{"texture": "tree_004", "x": 12267, "y": 512},
+				{"texture": "tree_004", "x": 12579, "y": 512},
+				{"texture": "tree_004", "x": 5200, "y": 512}
+			]
+		}
+	}
+},
+
+"groups": [
+	{
+		"x": 1257,
+		"y": 448,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":9, "x": 204, "y": -1.000023, "delay": 0, "path": "spinner"}
+		]
+	},
+	{
+		"x": 1443,
+		"y": 280,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":9, "x": 235, "y": -0.999999, "delay": 0, "path": "spinner"}
+		]
+	},
+	{
+		"x": 1655,
+		"y": 466,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":9, "x": 204.0001, "y": -1.000023, "delay": 0, "path": "spinner"}
+		]
+	},
+	{
+		"x": 1633,
+		"y": 110,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":1, "x": 102, "y": 0, "delay": 0, "path": "straight"},
+			{"type":1, "x": 402.0001, "y": 200, "delay": 0, "path": "straight"},
+			{"type":1, "x": 702.0001, "y": 400, "delay": 0, "path": "straight"},
+			{"type":1, "x": 1002, "y": 600, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 2022,
+		"y": 110,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":1, "x": 102, "y": 0, "delay": 0, "path": "straight"},
+			{"type":1, "x": 402.0001, "y": 200, "delay": 0, "path": "straight"},
+			{"type":1, "x": 702.0001, "y": 400, "delay": 0, "path": "straight"},
+			{"type":1, "x": 1002, "y": 600, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 2491,
+		"y": 110,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":1, "x": 102, "y": 0, "delay": 0, "path": "straight"},
+			{"type":1, "x": 402.0001, "y": 200, "delay": 0, "path": "straight"},
+			{"type":1, "x": 702.0001, "y": 400, "delay": 0, "path": "straight"},
+			{"type":1, "x": 1002, "y": 600, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 2977,
+		"y": 110,
+		"delay": 0,
+		"powerup": 1,
+		"chance": 1,
+		"creeps": [
+			{"type":1, "x": 102, "y": 0, "delay": 0, "path": "straight"},
+			{"type":1, "x": 402.0001, "y": 200, "delay": 0, "path": "straight"},
+			{"type":1, "x": 702.0001, "y": 400, "delay": 0, "path": "straight"},
+			{"type":1, "x": 1002, "y": 600, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 3972,
+		"y": 366,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":6, "x": 168.9999, "y": -202, "delay": 0, "path": "basic"},
+			{"type":6, "x": 168.9999, "y": 198, "delay": 0, "path": "basic"}
+		]
+	},
+	{
+		"x": 4520,
+		"y": 428,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":6, "x": 168.9999, "y": -202, "delay": 0, "path": "basic"},
+			{"type":6, "x": 168.9999, "y": 198, "delay": 0, "path": "basic"}
+		]
+	},
+	{
+		"x": 5033,
+		"y": 348,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":6, "x": 168.9999, "y": -202, "delay": 0, "path": "basic"},
+			{"type":6, "x": 168.9999, "y": 198, "delay": 0, "path": "basic"}
+		]
+	},
+	{
+		"x": 4813,
+		"y": 691,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":8, "x": 209.8999, "y": 0, "delay": 0, "path": ""}
+		]
+	},
+	{
+		"x": 5211,
+		"y": 691,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":8, "x": 209.8999, "y": 0, "delay": 0, "path": ""}
+		]
+	},
+	{
+		"x": 5556,
+		"y": 691,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":8, "x": 209.8999, "y": 0, "delay": 0, "path": ""}
+		]
+	},
+	{
+		"x": 5756,
+		"y": 251,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":4, "x": 33.00018, "y": -317, "delay": 0, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 6101,
+		"y": 251,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":4, "x": 33.00018, "y": -317, "delay": 0, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 6101,
+		"y": 251,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":4, "x": 33.00018, "y": -317, "delay": 0, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 6428,
+		"y": 251,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":4, "x": 33.00018, "y": -317, "delay": 0, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 6769,
+		"y": -169,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":1, "x": 101.9997, "y": 100, "delay": 0, "path": "bounce away"},
+			{"type":1, "x": 401.9997, "y": 100, "delay": 0.5, "path": "bounce away"},
+			{"type":1, "x": 701.9996, "y": 100, "delay": 1, "path": "bounce away"},
+			{"type":1, "x": 1002, "y": 100, "delay": 1.5, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 7538,
+		"y": -169,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":1, "x": 101.9997, "y": 100, "delay": 0, "path": "bounce away"},
+			{"type":1, "x": 401.9997, "y": 100, "delay": 0.5, "path": "bounce away"},
+			{"type":1, "x": 701.9996, "y": 100, "delay": 1, "path": "bounce away"},
+			{"type":1, "x": 1002, "y": 100, "delay": 1.5, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 8000,
+		"y": 430,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":0, "x": 295.9999, "y": 3.999996, "delay": 0, "path": "straight"},
+			{"type":0, "x": 295.9999, "y": -194, "delay": 0, "path": "straight"},
+			{"type":0, "x": 295.9999, "y": 200, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 7337,
+		"y": 430,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":0, "x": 295.9999, "y": 3.999996, "delay": 0, "path": "straight"},
+			{"type":0, "x": 295.9999, "y": -194, "delay": 0, "path": "straight"},
+			{"type":0, "x": 295.9999, "y": 200, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 8557,
+		"y": 430,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":0, "x": 295.9999, "y": 3.999996, "delay": 0, "path": "straight"},
+			{"type":0, "x": 295.9999, "y": -194, "delay": 0, "path": "straight"},
+			{"type":0, "x": 295.9999, "y": 200, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 8995,
+		"y": 349,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":0, "x": 887.9998, "y": 100, "delay": 0, "path": "straight"},
+			{"type":0, "x": 269.9997, "y": -98, "delay": 0, "path": "straight"},
+			{"type":0, "x": 1422, "y": 296, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 9331,
+		"y": 349,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":0, "x": 887.9998, "y": 100, "delay": 0, "path": "straight"},
+			{"type":0, "x": 269.9997, "y": -98, "delay": 0, "path": "straight"},
+			{"type":0, "x": 1422, "y": 296, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 9649,
+		"y": 349,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":0, "x": 887.9998, "y": 100, "delay": 0, "path": "straight"},
+			{"type":0, "x": 269.9997, "y": -98, "delay": 0, "path": "straight"},
+			{"type":0, "x": 1422, "y": 296, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 10853,
+		"y": 351,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":6, "x": 169.0002, "y": -202, "delay": 0, "path": "basic"},
+			{"type":6, "x": 169.0002, "y": 198, "delay": 0, "path": "basic"}
+		]
+	},
+	{
+		"x": 11334,
+		"y": 366,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":6, "x": 169.0002, "y": -202, "delay": 0, "path": "basic"},
+			{"type":6, "x": 169.0002, "y": 198, "delay": 0, "path": "basic"}
+		]
+	},
+	{
+		"x": 11575,
+		"y": -209,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":1, "x": 101.9997, "y": 100, "delay": 0, "path": "bounce away"},
+			{"type":1, "x": 401.9997, "y": 100, "delay": 0.5, "path": "bounce away"},
+			{"type":1, "x": 701.9996, "y": 100, "delay": 1, "path": "bounce away"},
+			{"type":1, "x": 1002, "y": 100, "delay": 1.5, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 11741,
+		"y": -349,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":1, "x": 101.9997, "y": 100, "delay": 0, "path": "bounce away"},
+			{"type":1, "x": 401.9997, "y": 100, "delay": 0.5, "path": "bounce away"},
+			{"type":1, "x": 701.9996, "y": 100, "delay": 1, "path": "bounce away"},
+			{"type":1, "x": 1002, "y": 100, "delay": 1.5, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 12693,
+		"y": 691,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":8, "x": 209.9007, "y": 0, "delay": 0, "path": ""}
+		]
+	},
+	{
+		"x": 13119,
+		"y": 691,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":8, "x": 209.8999, "y": 0, "delay": 0, "path": ""}
+		]
+	},
+	{
+		"x": 13505,
+		"y": 211,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":4, "x": 33.00018, "y": -317, "delay": 0, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 13647,
+		"y": 691,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":8, "x": 209.8999, "y": 0, "delay": 0, "path": ""}
+		]
+	},
+	{
+		"x": 13962,
+		"y": 211,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":4, "x": 33.00018, "y": -317, "delay": 0, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 14128,
+		"y": 691,
+		"delay": 0,
+		"powerup": 1,
+		"chance": 1,
+		"creeps": [
+			{"type":8, "x": 209.8999, "y": 0, "delay": 0, "path": ""}
+		]
+	},
+	{
+		"x": 14435,
+		"y": 211,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":4, "x": 33.00018, "y": -317, "delay": 0, "path": "bounce away"}
+		]
+	},
+	{
+		"x": 13781,
+		"y": 181,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":6, "x": 600, "y": -202, "delay": 0, "path": "straight"},
+			{"type":6, "x": 200, "y": -1.999998, "delay": 0, "path": "straight"},
+			{"type":6, "x": 600, "y": 198, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 14364,
+		"y": 181,
+		"delay": 0,
+		"powerup": 0,
+		"chance": 1,
+		"creeps": [
+			{"type":6, "x": 600, "y": -202, "delay": 0, "path": "straight"},
+			{"type":6, "x": 200, "y": -1.999998, "delay": 0, "path": "straight"},
+			{"type":6, "x": 600, "y": 198, "delay": 0, "path": "straight"}
+		]
+	},
+	{
+		"x": 14696,
+		"y": 691,
+		"delay": 0,
+		"powerup": -1,
+		"chance": 1,
+		"creeps": [
+			{"type":8, "x": 209.8999, "y": 0, "delay": 0, "path": ""}
+		]
+	}
+	]
+}

@@ -1,0 +1,111 @@
+
+char_heatblast.png
+size: 62,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heatblast_arm_btm_l
+  rotate: false
+  xy: 40, 173
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+heatblast_arm_btm_r
+  rotate: false
+  xy: 1, 213
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+heatblast_arm_top_l
+  rotate: false
+  xy: 1, 123
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+heatblast_arm_top_r
+  rotate: false
+  xy: 1, 169
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+heatblast_foot_l
+  rotate: false
+  xy: 30, 281
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+heatblast_foot_r
+  rotate: false
+  xy: 1, 283
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+heatblast_hand_l
+  rotate: false
+  xy: 30, 254
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+heatblast_hand_r
+  rotate: false
+  xy: 22, 225
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+heatblast_head
+  rotate: false
+  xy: 1, 66
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+heatblast_hip
+  rotate: false
+  xy: 1, 254
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+heatblast_leg_btm_l
+  rotate: false
+  xy: 44, 66
+  size: 16, 53
+  orig: 16, 53
+  offset: 0, 0
+  index: -1
+heatblast_leg_btm_r
+  rotate: false
+  xy: 44, 121
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+heatblast_leg_top_l
+  rotate: false
+  xy: 23, 123
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1
+heatblast_leg_top_r
+  rotate: false
+  xy: 23, 175
+  size: 15, 48
+  orig: 15, 48
+  offset: 0, 0
+  index: -1
+heatblast_torso
+  rotate: false
+  xy: 1, 1
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1

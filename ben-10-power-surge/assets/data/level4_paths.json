@@ -1,0 +1,143 @@
+{
+"paths":
+	{
+	"basic": {
+		"delay": 0,
+		"smooth": true,
+		"repeat": -1,
+		"remove": true,
+		"path": [
+		{
+			"x": 0,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		},
+		{
+			"x": -227,
+			"y": 170,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		},
+		{
+			"x": -441,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		}
+		]
+	},
+	"fly away": {
+		"delay": 0,
+		"smooth": true,
+		"repeat": -1,
+		"remove": true,
+		"path": [
+		{
+			"x": 0,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		},
+		{
+			"x": -272,
+			"y": 488,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		},
+		{
+			"x": -492,
+			"y": -52.99997,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		},
+		{
+			"x": -1207,
+			"y": -1041,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		}
+		]
+	},
+	"straight": {
+		"delay": 0,
+		"smooth": true,
+		"repeat": -1,
+		"remove": true,
+		"path": [
+		{
+			"x": 0,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		},
+		{
+			"x": -800,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		}
+		]
+	},
+	"stand_still": {
+		"delay": 0,
+		"smooth": true,
+		"repeat": -1,
+		"remove": true,
+		"path": [
+		{
+			"x": 0,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0
+		}
+		]
+	},
+	"spinner": {
+		"delay": 0,
+		"smooth": false,
+		"repeat": -1,
+		"remove": true,
+		"path": [
+		{
+			"x": 0,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0.5
+		},
+		{
+			"x": -227,
+			"y": 90.99998,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0.5
+		},
+		{
+			"x": -441.0001,
+			"y": 0,
+			"speed": 1,
+			"damping": 0.965,
+			"delay": 0.5
+		}
+		]
+	}
+	}
+}

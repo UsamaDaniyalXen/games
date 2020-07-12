@@ -1,0 +1,136 @@
+{
+  "levels": [
+    {"name": "level1", "path": "level1_paths", "boss": [1]},
+    {"name": "level2", "path": "level2_paths", "boss": [2]},
+    {"name": "level3", "path": "level3_paths", "boss": [3]},
+    {"name": "level4", "path": "level4_paths", "boss": [4]},
+    {"name": "level5", "path": "level5_paths", "boss": [5]}
+  ],
+  "creeps": {
+    "dronesmallfly": {
+      "health": 1,
+      "speed": 220,
+      "value": 100,
+      "faceDir": true
+    },
+    "dronesmallflyshoot": {
+      "health": 1,
+      "speed": 220,
+      "value": 140,
+      "faceDir": true
+    },
+    "dronesmall": {
+      "health": 1,
+      "speed": 220,
+      "value": 60,
+      "faceDir": false
+    },
+    "dronesmallshoot": {
+      "health": 1,
+      "speed": 220,
+      "value": 80,
+      "faceDir": false
+    },
+    "dronesmallspinner": {
+      "health": 1,
+      "speed": 240,
+      "value": 160,
+      "faceDir": true
+    },
+    "dronelargefly": {
+      "health": 2,
+      "speed": 180,
+      "value": 240,
+      "faceDir": true
+    },
+    "dronelargeflyshoot": {
+      "health": 2,
+      "speed": 180,
+      "value": 260,
+      "faceDir": true
+    },
+    "dronelarge": {
+      "health": 2,
+      "speed": 180,
+      "value": 200,
+      "faceDir": false
+    },
+    "dronelargeshoot": {
+      "health": 2,
+      "speed": 180,
+      "value": 220,
+      "faceDir": false
+    },
+    "dronelargespinner": {
+      "health": 2,
+      "speed": 200,
+      "value": 300,
+      "faceDir": true
+    },
+    "boss1": {
+      "health": 150
+    },
+    "boss2": {
+      "health": 170
+    },
+    "boss3": {
+      "health": 190
+    },
+    "boss4": {
+      "health": 210
+    },
+    "boss5": {
+      "health": 230
+    }
+  },
+  "powerups": {
+    "spinningdisk": {
+      "damage": 2,
+      "speed": 1000
+    },
+    "dronemissile": {
+      "damage": 99999,
+      "speed": 640
+    },
+    "fireball1": {
+      "damage": 3,
+      "speed": 1100
+    },
+    "fireball2": {
+      "damage": 4,
+      "speed": 1100
+    },
+    "fireball3": {
+      "damage": 5,
+      "speed": 1100
+    },
+    "heatblastwave1": {
+      "damage": 99999,
+      "speed": 1400
+    },
+    "gooball1": {
+      "damage": 3,
+      "speed": 1100
+    },
+    "gooball2": {
+      "damage": 4,
+      "speed": 1100
+    },
+    "gooball3": {
+      "damage": 5,
+      "speed": 1100
+    },
+    "dronebulletsmall": {
+      "damage": 1,
+      "speed": 600
+    },
+    "bossdisk": {
+      "damage": 1,
+      "speed": 1000
+    },
+    "bossmissile": {
+      "damage": 1,
+      "speed": 540
+    }
+  }
+}

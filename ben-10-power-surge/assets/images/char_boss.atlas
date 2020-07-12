@@ -1,0 +1,139 @@
+
+char_boss.png
+size: 878,578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_car
+  rotate: false
+  xy: 62, 374
+  size: 611, 144
+  orig: 611, 144
+  offset: 0, 0
+  index: -1
+boss_disk_arm_001
+  rotate: false
+  xy: 690, 374
+  size: 12, 95
+  orig: 12, 95
+  offset: 0, 0
+  index: -1
+boss_disk_arm_002
+  rotate: false
+  xy: 25, 374
+  size: 35, 151
+  orig: 35, 151
+  offset: 0, 0
+  index: -1
+boss_disk_arm_003
+  rotate: false
+  xy: 735, 374
+  size: 20, 68
+  orig: 20, 68
+  offset: 0, 0
+  index: -1
+boss_gun
+  rotate: false
+  xy: 127, 520
+  size: 214, 55
+  orig: 214, 55
+  offset: 0, 0
+  index: -1
+boss_gun_001
+  rotate: false
+  xy: 774, 503
+  size: 20, 72
+  orig: 20, 72
+  offset: 0, 0
+  index: -1
+boss_gun_002
+  rotate: false
+  xy: 865, 503
+  size: 12, 71
+  orig: 12, 71
+  offset: 0, 0
+  index: -1
+boss_laser
+  rotate: false
+  xy: 675, 501
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+boss_laser_001
+  rotate: false
+  xy: 796, 468
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+boss_laser_002
+  rotate: false
+  xy: 704, 374
+  size: 29, 71
+  orig: 29, 71
+  offset: 0, 0
+  index: -1
+boss_laser_charge
+  rotate: false
+  xy: 25, 527
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+boss_laser_ring
+  rotate: false
+  xy: 69, 520
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+boss_leg_001
+  rotate: false
+  xy: 1, 374
+  size: 22, 182
+  orig: 22, 182
+  offset: 0, 0
+  index: -1
+boss_leg_002
+  rotate: false
+  xy: 675, 374
+  size: 13, 125
+  orig: 13, 125
+  offset: 0, 0
+  index: -1
+boss_leg_003
+  rotate: false
+  xy: 868, 374
+  size: 6, 61
+  orig: 6, 61
+  offset: 0, 0
+  index: -1
+boss_leg_004
+  rotate: false
+  xy: 868, 437
+  size: 4, 64
+  orig: 4, 64
+  offset: 0, 0
+  index: -1
+boss_rustbucket
+  rotate: false
+  xy: 1, 1
+  size: 875, 371
+  orig: 875, 379
+  offset: 0, 0
+  index: -1
+projectile_boss_disk
+  rotate: false
+  xy: 774, 374
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+projectile_boss_missile
+  rotate: false
+  xy: 343, 520
+  size: 111, 20
+  orig: 111, 20
+  offset: 0, 0
+  index: -1

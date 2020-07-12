@@ -1,0 +1,202 @@
+
+char_stinkfly.png
+size: 396,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antenna_l
+  rotate: true
+  xy: 255, 97
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+antenna_r
+  rotate: false
+  xy: 385, 87
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+arm_btm_l
+  rotate: true
+  xy: 282, 87
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+arm_btm_r
+  rotate: true
+  xy: 280, 99
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+arm_top_l
+  rotate: true
+  xy: 259, 112
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+arm_top_r
+  rotate: true
+  xy: 282, 72
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+fist_l
+  rotate: true
+  xy: 317, 72
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+fist_r
+  rotate: true
+  xy: 321, 111
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 292, 112
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 356, 87
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 319, 86
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 356, 100
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 256, 72
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+heel_l
+  rotate: false
+  xy: 373, 112
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+heel_r
+  rotate: false
+  xy: 373, 112
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 336, 87
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+leg_btm_l
+  rotate: true
+  xy: 167, 97
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+leg_btm_r
+  rotate: true
+  xy: 211, 97
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+leg_top_l
+  rotate: true
+  xy: 167, 113
+  size: 10, 44
+  orig: 10, 44
+  offset: 0, 0
+  index: -1
+leg_top_r
+  rotate: true
+  xy: 213, 113
+  size: 10, 44
+  orig: 10, 44
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 256, 1
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+torso_side
+  rotate: false
+  xy: 300, 1
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+wing_blur_001_l
+  rotate: false
+  xy: 336, 1
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+wing_blur_001_r
+  rotate: false
+  xy: 336, 44
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+wing_blur_002_l
+  rotate: false
+  xy: 167, 1
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+wing_blur_002_r
+  rotate: false
+  xy: 212, 1
+  size: 42, 94
+  orig: 42, 94
+  offset: 0, 0
+  index: -1
+wing_l
+  rotate: false
+  xy: 1, 1
+  size: 81, 121
+  orig: 81, 121
+  offset: 0, 0
+  index: -1
+wing_r
+  rotate: false
+  xy: 84, 1
+  size: 81, 121
+  orig: 81, 121
+  offset: 0, 0
+  index: -1
