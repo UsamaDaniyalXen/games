@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<!-- Meta Data's -->
+	<meta http-equiv="X-UA-Compatible" content="IE=9" />    
+    <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="viewport" content="minimal-ui, initial-scale=1, maximum-scale=1, width=device-width, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="Isle Of The Lost Rush - Descendants">
+    <meta name="keywords" content="game, html5 game">
+
+	<title>Isle Of The Lost Rush - Descendants - UDX</title>
+
+	<!-- Favicon -->
+ 	<link rel="icon" href="media/images/favicon.png">
+
+    <!-- #GAME CSS START# -->
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/cleanup.css">
+
+    <!-- #GAME CSS END# -->
+    <style>
+        #ios7 {
+            display: none
+        }
+    </style>
+
+    <!-- Prevent console.log crashes in IE! -->
+    <script type="text/javascript">
+        if (!window.console || !window.console.log) console = {
+            log: function() {},
+            error: function() {}
+        };
+    </script>
+
+    <script type="text/javascript" src="gameContainer_30/require.min.js"></script>
+    <script type="text/javascript" src="gameContainer_30/modules/Modules.min.js"></script>
+    <script type="text/javascript" src="gameContainer_30/UI/UIObjects.min.js"></script>
+    <script type="text/javascript" src="gameContainer_30/modules/suggestionengine/SuggestionEngine.min.js"></script>
+
+</head>
+
+<body>
+
+    <!-- #GAME DIVS START# -->
+    <div id="container" style="width:100%; height:100%; overflow:hidden;"></div>
+    <!-- #GAME DIVS END# -->
+
+    <!-- Begin iOS 7 HTML -->
+    <div id="ios7">
+        <div id="box">
+            <div id="message">
+                <img src="gameContainer/overlay/ios7fix/ios7-close-button.png" width="20" height="20" alt="Close Button" id="close-button">
+                <img src="gameContainer/overlay/ios7fix/ios7-add-to-home-screen.png" width="60" height="60" alt="Add To Home Screen Button" id="add-button"> Tap <img src="gameContainer/overlay/ios7fix/ios7-options-button.png" width="19" height="26" alt="iOS 7 Options Button" id="options-button"> and then
+                <br />
+                <strong>Add to Home Screen</strong>
+                <br /> for the best play experience.
+            </div>
+        </div>
+        <center><img src="gameContainer/overlay/ios7fix/ios7-arrow.png" width="16" height="18" alt="Arrow">
+        </center>
+    </div>
+    <!-- End iOS 7 HTML -->
+
+    <!-- #GAME SCRIPTS START# -->
+    <script type="text/javascript" src="js/game.js"></script>
+    <!-- #GAME SCRIPTS END# -->
+
+</body>
+
+</html>
